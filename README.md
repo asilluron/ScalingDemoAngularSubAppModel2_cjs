@@ -1,2 +1,4 @@
-ScalingDemoAngularSubAppModel2_cjs
-==================================
+AngularSubApp_cjs
+=================
+
+Demo Angular Model App
